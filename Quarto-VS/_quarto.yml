@@ -1,0 +1,33 @@
+project:
+  type: book
+
+book:
+  title: "Quarto-VS"
+  author: 
+    - name: Julien Rabaud
+      orcid: 0000-0002-6604-9777
+      email: julien.rabaud@univ-pau.fr
+      affiliations:
+        - name: SCD, Bibliothèque de l'IPRA
+          url: https://bibliotheques.univ-pau.fr/fr/infos-pratiques/pau/bibliotheque-de-recherche-de-l-ipra.html
+        - name: CSP-NR, Gestion des données de la recherche
+          url: https://recherche.univ-pau.fr/fr/science-ouverte/donnees-de-la-recherche.html
+  date: 2024-11-18
+  repo-url: "https://github.com/ujubib/Quarto_Huma-Num"
+  repo-subdir: "/Tropy_ED_Quarto/"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
