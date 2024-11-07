@@ -2,19 +2,34 @@ project:
   type: book
 
 book:
-  title: "Quarto-VS"
+  title: "TGIR Huma-Num&nbsp;:<br> Trouvez votre consortium<br> et Utilisez les outils disponibles"
+  subtitle: "UPPA - ED 481 SSH / Outils pour les humanités numériques"
   author: 
     - name: Julien Rabaud
       orcid: 0000-0002-6604-9777
       email: julien.rabaud@univ-pau.fr
       affiliations:
-        - name: SCD, Bibliothèque de l'IPRA
+        - name: "SCD | Bibliothèque de recherche de mathématiques appliquées"
           url: https://bibliotheques.univ-pau.fr/fr/infos-pratiques/pau/bibliotheque-de-recherche-de-l-ipra.html
-        - name: CSP-NR, Gestion des données de la recherche
+        - name: "CSP Numérique Recherche | Gestion des données de la recherche"
           url: https://recherche.univ-pau.fr/fr/science-ouverte/donnees-de-la-recherche.html
   date: 2024-11-18
+  favicon: "IMG/Huma-Num_Icon.png"
   repo-url: "https://github.com/ujubib/Quarto_Huma-Num"
-  repo-subdir: "/Tropy_ED_Quarto/"
+  repo-subdir: "/Quarto-VS/"
+  repo-actions: [source, issue]
+  downloads: [pdf, epub, docx]
+  page-navigation: false
+  page-footer:
+    background: FloralWhite
+    border: false
+  margin-header: |
+    ![](/IMG/logoUPPA-RepFr.png)
+  sidebar:
+    style: "floating"
+    background: FloralWhite
+    collapse-level: 1
+
   chapters:
     - index.qmd
     - intro.qmd
@@ -25,9 +40,34 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: journal
+    lang: fr
+    backgroundcolor: FloralWhite
+    css: styles.css
+    lightbox: true
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+    reference-location: margin
+    number-sections: false
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
   pdf:
-    documentclass: scrreprt
-
+    lang: fr
+    documentclass: scrreport
+    number-sections: false
+    links-as-notes: true
+    lof: true
+    lot: true
+  epub: 
+    epub-cover-image: cover.png
+    lang: fr
+  docx:
+    lang: fr
+    toc: true
+    number-sections: false
 
 
