@@ -32,8 +32,16 @@ book:
 
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - part: LesConsortiums.qmd
+      chapters: 
+        - historique.qmd
+        - consortiumsfinis.qmd
+        - consortiumsactifs.qmd
+    - part: LesServices.qmd
+      chapters: 
+        - intro.qmd
+        - summary.qmd
+  appendices:
     - references.qmd
 
 bibliography: references.bib
