@@ -1,5 +1,12 @@
-# Preface {.unnumbered}
+---
+title: Accueil
+---
 
-This is a Quarto book.
+![](IMG/HN_LOGO_COULEUR-RVB_Logo-scaled.jpg){#logoaccueil fig-alt="Logo Huma-Num" fig-align="center"}
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+![](IMG/Schema-du-cycle-de-vie-des-donnees-HN_2023_FR-2-scaled.jpg)
+
+---
+
+> Support réalisé avec [Quarto](https://quarto.org/).
