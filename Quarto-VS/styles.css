@@ -7,6 +7,7 @@ body {
 }
 figcaption{
     text-align: center;
+    background-color: none;
 }
 #title-block-header {
     margin-bottom: 4em;
@@ -37,13 +38,19 @@ p.subtitle {
     border-radius: 50%;
     border: 6px solid orangered;
 }
-
+/*
 .tab-content {
     background-color: white;
 }
+*/
 .figure {
     border-radius: 12px;
 }
+.quarto-layout-row {
+    justify-content: center;
+    margin-bottom: 1.4em;
+}
+
 .margin-header-item img {
     border-radius: 8px;
 }

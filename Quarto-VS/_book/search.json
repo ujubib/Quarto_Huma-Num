@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "TGIR Huma-Num :Trouvez votre consortium et Utilisez les outils disponibles",
+    "title": "IR٭ Huma-Num :Trouvez votre consortium et utilisez les outils disponibles",
     "section": "",
-    "text": "Support réalisé avec Quarto.",
+    "text": "Des outils et des services numériquespour manipuler et produire des données FAIR\n\n\n\nDes consortiums thématiques pour collaborer, échanger, partager, élaborer des méthodologies, publier des guides ou des thésaurus, organiser des formations ou des journées d’études\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSite réalisé avec Quarto.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Accueil</span>"
     ]
@@ -14,7 +14,7 @@
     "href": "intro.html",
     "title": "Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. « Literate Programming ». Comput. J. 27 (2): 97‑111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "Je me connecte à Colodus\n\n\n\n\n\nAccès au site Colodus\n\n\n\n\n\n\n\n\n\nJe dois m’identifier avec le login et mot de passe transmis.NB: ils sont identiques à ceux utilisés dans WinIBW.\n\n\n\n\n\n\n\nLe login est lié à une bibliothèque du SCD (aussi appelé RCR) et ne doit être utilisé que pour créer/supprimer des localisations pour celle-ci.Si vous intervenez sur plusieurs bibliothèques, changez de login à chaque fois.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJe fais une recherche\n\n\n\n\n\nAller sur le menu ‘Recherche’  (on tombe sur cet écran directement après la connexion).\n\nJ’ai le ppn de l’ouvrageJ’ai l’ISBN de l’ouvrageNi l’un ni l’autre\n\n\n\n\n\nLe numéro PPN peut être noté sur la page de titre de l’ouvrage, ou dans Alma, retrouvé dans l’affichage bref de la notice, précédé de “(PPN)”.    Ne pas entrer ce préfixe pour une recherche dans Colodus, juste les 9 chiffres.\n\n\n\n\n\n\n\nPour les livres parus après 2007, l’ISBN est identique au code-barre commercial du livre (aussi appelé EAN).\n\n\n\n\n\nScanner celui-ci avec la douchette dans le champ ISBN.\n\n\n\nS’il n’y a pas de résultat, il est possible que l’ouvrage date d’avant 2007, où l’ISBN différait un peu du code-barre commercial. Il suffit alors d’enlever le ‘978’ du début et de remplacer le dernier chiffre par * et de relancer la recherche. Dans notre exemple, 9782759224166 devient 275922416*. S’il n’y a pas de code-barres commercial, rechercher l’ISBN sur la 4e de couverture ou à l’intérieur de l’ouvrage et le taper à la main (avec ou sans tirets).\n\n\n\nSi l’ouvrage n’a pas d’ISBN (parution avant les années 1970) ni de code-barres commercial visible, il faut passer par une recherche auteur/titre en dépliant le menu ‘Autres critères de recherche’\n\nDans les menus déroulants, on choisit le type d’index (auteur, titre, éditeur, etc.) qu’on interroge et dans le champ de saisie le contenu recherché. Mettre le maximum d’informations possibles, sinon il risque d’y avoir beaucoup de résultats (des millions de notices dans le Sudoc) !\n\n\nOn tombera sans doute sur une liste de résultats dans lequel il faudra faire son choix :\n\nBien regarder l’année d’édition, l’éditeur, le détail du titre…\nLa 2e colonne indique de façon codée la nature du document. On s’occupe en général de livres imprimés, ce qui se traduit par un code ‘Aax’. Toute autre valeur sur les 2 premiers caractères indique un document d’un autre type (Oa : livre électronique, Ab : revue imprimée, Na : Cd audio, Ba : vidéo, etc.). Pour un livre, il ne faut donc pas choisir une notice d’un autre type que ‘Aa’.\nDans cette colonne, l’astérisque * signale que des membres du Sudoc sont localisés sur cette notice, et le plus +, que le SCD est localisé dessus.\n\nCliquer sur n’importe quel champ de la notice sélectionnée pour tomber sur l’affichage détaillé de la notice et vérifier rapidement une dernière fois qu’on est sur le bon document, notamment au niveau du support physique :\n\nBien vérifier que toutes les informations de la notice concordent avec le document que vous avez en main avant de choisir une notice.\n\n\n\n\n\n\n\n\n\nJe dois m’identifier avec le login et mot de passe transmis.NB: ils sont identiques à ceux utilisés dans WinIBW.\nLe login est lié à une bibliothèque du SCD (aussi appelé RCR) et ne doit être utilisé que pour créer/supprimer des localisations pour celle-ci.Si vous intervenez sur plusieurs bibliothèques, changez de login à chaque fois.\nLe numéro PPN peut être noté sur la page de titre de l’ouvrage, ou dans Alma, retrouvé dans l’affichage bref de la notice, précédé de “(PPN)”.    Ne pas entrer ce préfixe pour une recherche dans Colodus, juste les 9 chiffres.\nLe numéro PPN peut être noté sur la page de titre de l’ouvrage, ou dans Alma, retrouvé dans l’affichage bref de la notice, précédé de “(PPN)”.    Ne pas entrer ce préfixe pour une recherche dans Colodus, juste les 9 chiffres.\nLe numéro PPN peut être noté sur la page de titre de l’ouvrage, ou dans Alma, retrouvé dans l’affichage bref de la notice, précédé de “(PPN)”.    Ne pas entrer ce préfixe pour une recherche dans Colodus, juste les 9 chiffres.\nPour les livres parus après 2007, l’ISBN est identique au code-barre commercial du livre (aussi appelé EAN).\nScanner celui-ci avec la douchette dans le champ ISBN.",
     "crumbs": [
       "LesServices.html",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introduction</span>"
@@ -39,6 +39,16 @@
     "crumbs": [
       "Appendices",
       "References"
+    ]
+  },
+  {
+    "objectID": "index.html#des-outils-et-des-services-pour-produire-des-données-fair",
+    "href": "index.html#des-outils-et-des-services-pour-produire-des-données-fair",
+    "title": "IR٭ Huma-Num :Trouvez votre consortium et utilisez les outils disponibles",
+    "section": "",
+    "text": "Support réalisé avec Quarto.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Accueil</span>"
     ]
   }
 ]

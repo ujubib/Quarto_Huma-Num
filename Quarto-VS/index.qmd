@@ -5,8 +5,43 @@ title: Accueil
 ![](IMG/HN_LOGO_COULEUR-RVB_Logo-scaled.jpg){#logoaccueil fig-alt="Logo Huma-Num" fig-align="center"}
 
 
+
+::: {style="text-align:center;margin-top:2em;margin-bottom:4em"}
+### Des outils et des services numériques<br>pour manipuler et produire des données **FAIR**
+:::
+
+
 ![](IMG/Schema-du-cycle-de-vie-des-donnees-HN_2023_FR-2-scaled.jpg)
+
+
+
+::: {style="text-align:center;margin-bottom:3em;margin-top:6em;width:70%;margin-left:auto;margin-right:auto;"}
+### Des **consortiums** thématiques pour collaborer, échanger, partager, élaborer des méthodologies, publier des guides ou des thésaurus, organiser des formations ou des journées d'études
+:::
+
+::: {layout-ncol=3 layout-valign="center" style="text-align:center"}
+![](IMG/Pictoria-200x70.jpg)
+
+![](IMG/Logo_ARIANE-200x86.jpg)
+
+![](IMG/logo-3DHN-200x52.png)
+
+![](IMG/logo-PTM-png-200x80.png)
+
+![](IMG/logo_MASAplus-200x81.png)
+
+![](IMG/LOGO-DISTAM-sans-texte-200x158.png){height="120px"}
+
+![](IMG/logo-canevas_png-200x127.png)
+
+![](IMG/Musica-2-1-200x119.png)
+
+![](IMG/logo-CORLI-png.png)
+
+![](IMG/logo-sol-picto-194x200.png){height="160px"}
+:::
+
 
 ---
 
-> Support réalisé avec [Quarto](https://quarto.org/).
+*Site réalisé avec [Quarto](https://quarto.org/)*.

@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "TGIR Huma-Num&nbsp;:<br>Trouvez votre consortium et Utilisez les outils disponibles"
+  title: "IR٭ **Huma-Num**&nbsp;:<br>Trouvez votre **consortium** et utilisez les **outils** disponibles"
   subtitle: "UPPA - ED 481 SSH / Outils pour les humanités numériques"
   author: 
     - name: Julien Rabaud
@@ -32,6 +32,7 @@ book:
 
   chapters:
     - index.qmd
+    - text: "---"    
     - part: LesConsortiums.qmd
       chapters: 
         - historique.qmd
@@ -41,6 +42,7 @@ book:
       chapters: 
         - intro.qmd
         - summary.qmd
+    - text: "---"
   appendices:
     - references.qmd
 
@@ -53,6 +55,7 @@ format:
     backgroundcolor: FloralWhite
     css: styles.css
     lightbox: true
+    code-tools: true
     smooth-scroll: true
     link-external-icon: true
     link-external-newwindow: true
