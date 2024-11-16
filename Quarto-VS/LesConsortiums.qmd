@@ -4,7 +4,7 @@ listing:
   sort: false
   fields: [title, image]
   type: grid
-  image-height: 50px
+  image-height: 80px
   grid-columns: 2
   contents:
     - historique.qmd
