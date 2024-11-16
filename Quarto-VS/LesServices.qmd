@@ -1,1 +1,17 @@
+---
+listing:
+  id: service
+  sort: false
+  fields: [title, image]
+  type: grid
+  image-height: 50px
+  grid-columns: 2
+  contents:
+    - fair.qmd
+---
+
+
 # Les services
+
+:::{#service}
+:::

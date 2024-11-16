@@ -1,0 +1,27 @@
+---
+image: IMG/HN_LOGO_COULEUR-RVB_Logo-scaled.jpg
+---
+
+# Les consortiums actifs
+
+::: {layout-ncol=3 layout-valign="center" style="text-align:center"}
+![](IMG/Pictoria-200x70.jpg)
+
+![](IMG/Logo_ARIANE-200x86.jpg)
+
+![](IMG/logo-3DHN-200x52.png)
+
+![](IMG/logo-PTM-png-200x80.png)
+
+![](IMG/logo_MASAplus-200x81.png)
+
+![](IMG/LOGO-DISTAM-sans-texte-200x158.png){height="120px"}
+
+![](IMG/logo-canevas_png-200x127.png)
+
+![](IMG/Musica-2-1-200x119.png)
+
+![](IMG/logo-CORLI-png.png)
+
+![](IMG/logo-sol-picto-194x200.png){height="160px"}
+:::

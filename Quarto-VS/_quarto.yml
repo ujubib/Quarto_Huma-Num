@@ -19,7 +19,7 @@ book:
   repo-subdir: "/Quarto-VS/"
   repo-actions: [source, issue]
   downloads: [pdf, epub, docx]
-  page-navigation: false
+  page-navigation: true
   page-footer:
     background: FloralWhite
     border: false
@@ -36,12 +36,11 @@ book:
     - part: LesConsortiums.qmd
       chapters: 
         - historique.qmd
-        - consortiumsfinis.qmd
         - consortiumsactifs.qmd
+        - consortiumsfinis.qmd
     - part: LesServices.qmd
       chapters: 
-        - intro.qmd
-        - summary.qmd
+        - fair.qmd
     - text: "---"
   appendices:
     - references.qmd

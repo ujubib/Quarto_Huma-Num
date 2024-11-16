@@ -1,6 +1,6 @@
 ---
 listing:
-  id: main
+  id: consort
   sort: false
   fields: [title, image]
   type: grid
@@ -8,11 +8,13 @@ listing:
   grid-columns: 2
   contents:
     - historique.qmd
+    - consortiumsactifs.qmd
+    - consortiumsfinis.qmd
 ---
 
 # Histoire et Consortiums
 
-:::{#main}
+:::{#consort}
 :::
 
 
