@@ -1,1 +1,21 @@
+---
+listing:
+  id: main
+  sort: false
+  fields: [title, image]
+  type: grid
+  image-height: 50px
+  grid-columns: 2
+  contents:
+    - historique.qmd
+---
+
 # Histoire et Consortiums
+
+:::{#main}
+:::
+
+
+
+
+

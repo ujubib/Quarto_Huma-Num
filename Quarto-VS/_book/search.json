@@ -27,18 +27,19 @@
     "section": "",
     "text": "In summary, this book has no content whatsoever.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
+      "Les services",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
     "objectID": "references.html",
     "href": "references.html",
-    "title": "References",
+    "title": "References bibliographiques",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "« Qu’est-ce que l’IR* Huma-Num ? – Huma-Num ». En ligne :\nhttps://www.huma-num.fr/quest-ce-que-l-ir-huma-num/\n[consulté le 16 novembre 2024].",
     "crumbs": [
       "Appendices",
-      "References"
+      "References bibliographiques"
     ]
   },
   {
@@ -49,6 +50,49 @@
     "text": "Support réalisé avec Quarto.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Accueil</span>"
+    ]
+  },
+  {
+    "objectID": "historique.html",
+    "href": "historique.html",
+    "title": "Historique",
+    "section": "",
+    "text": "source officielle  :\n\n\nL’historique\n\n[https://www.huma-num.fr/quest-ce-que-l-ir-huma-num/]\n\nHuma-Num est le produit de la fusion au 1er mars 2013 de deux infrastructures : le très grand équipement Adonis (TGE) et l’infrastructure de recherche Corpus (IR).\n\nEn mars 2007, Adonis (Accès unifié aux données et documents numériques des sciences humaines et sociales) est créé avec l’objectif de réaliser un accès unifié aux données en SHS. Le projet du TGE Adonis repose sur l’existence de données numériques structurées selon des schémas identifiables et acceptés par les communautés scientifiques productrices de données. L’interopérabilité des données constitue de ce fait une notion clef dans les dispositifs d’infrastructures SHS.\n\n\n\n\n\n\n\n« Qu’est-ce que l’IR* Huma-Num ? – Huma-Num ». En ligne : https://www.huma-num.fr/quest-ce-que-l-ir-huma-num/ [consulté le 16 novembre 2024].",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Historique</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsfinis.html",
+    "href": "consortiumsfinis.html",
+    "title": "",
+    "section": "",
+    "text": "Histoire et Consortiumsconsortiumsfinis.html Code",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>consortiumsfinis.html</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsactifs.html",
+    "href": "consortiumsactifs.html",
+    "title": "",
+    "section": "",
+    "text": "Histoire et Consortiumsconsortiumsactifs.html Code",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>consortiumsactifs.html</span>"
+    ]
+  },
+  {
+    "objectID": "LesConsortiums.html",
+    "href": "LesConsortiums.html",
+    "title": "Histoire et Consortiums",
+    "section": "",
+    "text": "Historique\n\n\n\n\n\n\n\nAucun article correspondant",
+    "crumbs": [
+      "Histoire et Consortiums"
     ]
   }
 ]

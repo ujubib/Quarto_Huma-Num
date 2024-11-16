@@ -46,7 +46,8 @@ book:
   appendices:
     - references.qmd
 
-bibliography: references.bib
+bibliography: HumaNum.json
+csl: sciences-po-ecole-doctorale-author-date.csl
 
 format:
   html:
