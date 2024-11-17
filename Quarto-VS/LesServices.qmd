@@ -4,10 +4,12 @@ listing:
   sort: false
   fields: [title, image]
   type: grid
-  image-height: 50px
+  image-height: 100px
   grid-columns: 2
   contents:
     - fair.qmd
+    - services-presentation.qmd
+    - services-doc.qmd
 ---
 
 

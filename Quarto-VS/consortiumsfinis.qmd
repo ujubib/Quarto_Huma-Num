@@ -3,3 +3,29 @@ image: IMG/Logo_Archives_des_ethnologues-200x98.jpg
 ---
 
 # Les consortiums cloturés 
+
+Les anciens consortiums de l'IR* Huma-Num
+
+::: {layout-ncol=3 layout-valign="center" style="text-align:center"}
+![Consortium ImaGEO](IMG/LOGO_ImaGEO-200x38.png)
+
+![Consortium COSME2](IMG/Logo-COSME-200x171.png){height="80px"}
+
+![Consortium MASA](IMG/logo-MASA-200x93.png)
+
+![Consortium CORLI 1](IMG/logo-CORLI-png.png)
+
+![Consortium CAHIER](IMG/logo_CAHIER_png-200x54.png)
+
+![Consortium MUSICA](IMG/cropped-Logo-Musica2-1.jpg)
+
+![Consortium Archives des mondes contemporains (ArcMC)](IMG/cropped-BANDEAU_reseau-arcmc_1000x175_juin17_1380X280-1.jpg){height="60px"}
+
+![Consortium Archives des ethnologues](IMG/Logo_Archives_des_ethnologues-200x98.jpg)
+
+![Consortium Archives des sciences sociales du politique (Archipolis)](IMG/logo-archipolis-200x190.png){height="100px"}
+
+![Consortium CORPUS ECRITS](IMG/consortiumCorpusEcrits.png)
+
+![Consortium IRCOM](IMG/consortiumIRCOM.png)
+:::

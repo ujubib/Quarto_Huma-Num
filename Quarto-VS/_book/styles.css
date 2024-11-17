@@ -19,7 +19,7 @@ figcaption{
 }
 h1.title {
     text-align: center;
-    color: indianred;
+    color: CornflowerBlue;
     line-height: 1.5em;
 }
 p.subtitle {
@@ -83,7 +83,7 @@ button>a {
 }
 .csl-entry a {
     font-size: 0.9em;
-    color:dimgray;
+    color:LightSteelBlue;
 }
 table, sidebar-menu-container {
     text-align: left;

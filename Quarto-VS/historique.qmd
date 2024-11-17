@@ -4,15 +4,13 @@ image: IMG/tge-adonis-2-300x52.png
 
 # Historique
 
-- source officielle [@QuestceQueLIR] :
+- Source officielle [@huma-numQuestceQueLIR2023] :
+  - <https://www.huma-num.fr/quest-ce-que-l-ir-huma-num/>
+ 
+    > Huma-Num est le produit de la fusion au 1er mars 2013 de deux infrastructures : le très grand équipement **Adonis** (TGE) et l’infrastructure de recherche **Corpus** (IR).
+    >
+    > ![](IMG/tge-adonis-2-300x52.png)
+    >
+    > En mars 2007, **Adonis** (*Accès unifié aux données et documents numériques des sciences humaines et sociales*) est créé avec l’objectif de réaliser un accès unifié aux données en SHS. Le projet du TGE Adonis repose sur l’existence de données numériques structurées selon des schémas identifiables et acceptés par les communautés scientifiques productrices de données. L’**interopérabilité** des données constitue de ce fait **une notion clef dans les dispositifs d’infrastructures SHS**.
+    >
 
-> ## L'historique 
->
-> > \[<https://www.huma-num.fr/quest-ce-que-l-ir-huma-num/>\] 
-> 
-> Huma-Num est le produit de la fusion au 1er mars 2013 de deux infrastructures : le très grand équipement **Adonis** (TGE) et l’infrastructure de recherche **Corpus** (IR).
->
-> ![](IMG/tge-adonis-2-300x52.png)
->
-> En mars 2007, **Adonis** (*Accès unifié aux données et documents numériques des sciences humaines et sociales*) est créé avec l’objectif de réaliser un accès unifié aux données en SHS. Le projet du TGE Adonis repose sur l’existence de données numériques structurées selon des schémas identifiables et acceptés par les communautés scientifiques productrices de données. L’**interopérabilité** des données constitue de ce fait **une notion clef dans les dispositifs d’infrastructures SHS**.
->
