@@ -4,24 +4,71 @@ image: IMG/HN_LOGO_COULEUR-RVB_Logo-scaled.jpg
 
 # Les consortiums actifs
 
-::: {layout-ncol=3 layout-valign="center" style="text-align:center"}
-![](IMG/Pictoria-200x70.jpg)
+::: {layout-ncol="3" layout-valign="center" style="text-align:center"}
+[![](IMG/Pictoria-200x70.jpg)](#pictoria)
 
-![](IMG/Logo_ARIANE-200x86.jpg)
+[![](IMG/Logo_ARIANE-200x86.jpg)](#ariane)
 
-![](IMG/logo-3DHN-200x52.png)
+[![](IMG/logo-3DHN-200x52.png)](#d-hn)
 
-![](IMG/logo-PTM-png-200x80.png)
+[![](IMG/logo-PTM-png-200x80.png)](#projets-time-machine)
 
-![](IMG/logo_MASAplus-200x81.png)
+[![](IMG/logo_MASAplus-200x81.png)](#masa-plus)
 
-![](IMG/LOGO-DISTAM-sans-texte-200x158.png){height="120px"}
+[![](IMG/LOGO-DISTAM-sans-texte-200x158.png){height="120px"}](#distam)
 
-![](IMG/logo-canevas_png-200x127.png)
+[![](IMG/logo-canevas_png-200x127.png)](#canevas)
 
-![](IMG/Musica-2-1-200x119.png)
+[![](IMG/Musica-2-1-200x119.png)](#musica-2)
 
-![](IMG/logo-CORLI-png.png)
+[![](IMG/logo-CORLI-png.png)](#corli)
 
-![](IMG/logo-sol-picto-194x200.png){height="160px"}
+[![](IMG/logo-sol-picto-194x200.png){height="160px"}](#sol)
 :::
+
+::: {style="text-align:center;font-size:4em;color:royalblue;font-weight:9;margin-bottom:.8em;margin-top:.4em"}
+⁛‥⁛⁝⁛⁝⁛⁝⁛‥⁛
+:::
+
+::: {.callout-tip collapse="true"}
+## Liste de diffusion **DH francophone**
+
+Tous les consortiums communiquent sur  
+
+- *dh - Liste francophone de discussion autour des Digital Humanities* <https://groupes.renater.fr/sympa/info/dh>
+:::
+
+## Pictoria
+
+- Liste de diffusion
+
+## Ariane
+
+- Collection HAL du Consortium-HN ARIANE [@arianeCollectionHALConsortiumHN2024]
+
+## 3D HN
+
+- ex *3D SHS*.
+
+## Projets Time Machine
+
+- ex *Paris Time Machine*.
+
+## MASA Plus
+
+- carnet Hypothèses.org du Consortium
+- liste de diffusion
+
+## DISTAM
+
+- carnet Hypothèses.org du Consortium [@distamCarnetHypothesesConsortium2024]
+
+## Canevas
+
+- Liste de diffusion
+
+## MUSICA 2
+
+## CORLI
+
+## SOL

@@ -4,7 +4,7 @@ image: IMG/GOFAIR-logo-png-1-768x511.png
 
 # Utiliser et produire des données FAIR
 
-## Accéssibilité et intéropérabilité au coeur du numérique
+## Accéssibilité et intéropérabilité au cœur du numérique
 
 -   Une inspiration majeure des principes FAIR : le *5-Star Open Data* proné par Tim-Berners Lee, mis en forme par Michael Hausenblas sur ce site : <http://5stardata.info/fr/> [@hausenblasOpenData52012].
 
@@ -28,7 +28,9 @@ D'après l'article de référence *The FAIR Guiding Principles for Scientific Da
 
 Mis en items sur ce [site web](https://www.go-fair.org/fair-principles/) :
 
-> > *The principles refer to three types of entities: **data** (or any digital object), **metadata** (information about that digital object), and **infrastructure**. For instance, principle [F4](https://www.go-fair.org/fair-principles/f4-metadata-registered-indexed-searchable-resource/) defines that both metadata and data are registered or indexed in a searchable resource (the infrastructure component).*
+![](IMG/GOFAIR-logo-png-1-768x511.png){fig-align="center" width="180"}
+
+> *The principles refer to three types of entities: **data** (or any digital object), **metadata** (information about that digital object), and **infrastructure**. For instance, principle [F4](https://www.go-fair.org/fair-principles/f4-metadata-registered-indexed-searchable-resource/) defines that both metadata and data are registered or indexed in a searchable resource (the infrastructure component).*
 
 ::: panel-tabset
 ## Findable
@@ -71,8 +73,6 @@ Mis en items sur ce [site web](https://www.go-fair.org/fair-principles/) :
 
     -   [**R1.3**. (Meta)data meet domain-relevant community standards](https://www.go-fair.org/fair-principles/r1-3-metadata-meet-domain-relevant-community-standards/)
 :::
-
-![](IMG/GOFAIR-logo-png-1-768x511.png){fig-align="center" width="180"}
 
 ## Isidore
 

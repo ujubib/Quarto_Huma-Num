@@ -7,25 +7,54 @@ image: IMG/Logo_Archives_des_ethnologues-200x98.jpg
 Les anciens consortiums de l'IR* Huma-Num
 
 ::: {layout-ncol=3 layout-valign="center" style="text-align:center"}
-![Consortium ImaGEO](IMG/LOGO_ImaGEO-200x38.png)
+[![Consortium ImaGEO](IMG/LOGO_ImaGEO-200x38.png](#imageo)
 
-![Consortium COSME2](IMG/Logo-COSME-200x171.png){height="80px"}
+[![Consortium COSME2](IMG/Logo-COSME-200x171.png){height="80px"](#cosme-2)
 
-![Consortium MASA](IMG/logo-MASA-200x93.png)
+[![Consortium MASA](IMG/logo-MASA-200x93.png](#masa)
 
-![Consortium CORLI 1](IMG/logo-CORLI-png.png)
+[![Consortium CORLI 1](IMG/logo-CORLI-png.png](#corli-1)
 
-![Consortium CAHIER](IMG/logo_CAHIER_png-200x54.png)
+[![Consortium CAHIER](IMG/logo_CAHIER_png-200x54.png](#cahier)
 
-![Consortium MUSICA](IMG/cropped-Logo-Musica2-1.jpg)
+[![Consortium MUSICA](IMG/cropped-Logo-Musica2-1.jpg](#musica)
 
-![Consortium Archives des mondes contemporains (ArcMC)](IMG/cropped-BANDEAU_reseau-arcmc_1000x175_juin17_1380X280-1.jpg){height="60px"}
+[![Consortium Archives des mondes contemporains (ArcMC)](IMG/cropped-BANDEAU_reseau-arcmc_1000x175_juin17_1380X280-1.jpg){height="60px"](#archives-des-mondes-contemporains-(arcmc)
 
-![Consortium Archives des ethnologues](IMG/Logo_Archives_des_ethnologues-200x98.jpg)
+[![Consortium Archives des ethnologues](IMG/Logo_Archives_des_ethnologues-200x98.jpg](#archives-des-ethnologues)
 
-![Consortium Archives des sciences sociales du politique (Archipolis)](IMG/logo-archipolis-200x190.png){height="100px"}
+[![Consortium Archives des sciences sociales du politique (Archipolis)](IMG/logo-archipolis-200x190.png){height="100px"](#archives-des-sciences-sociales-du-politique-(archipolis)
 
-![Consortium CORPUS ECRITS](IMG/consortiumCorpusEcrits.png)
+[![Consortium CORPUS ECRITS](IMG/consortiumCorpusEcrits.png](#corpus-ecrits)
 
-![Consortium IRCOM](IMG/consortiumIRCOM.png)
+[![Consortium IRCOM](IMG/consortiumIRCOM.png](#ircom)
 :::
+
+::: {style="text-align:center;font-size:4em;color:royalblue;font-weight:9;margin-bottom:.8em;margin-top:.4em"}
+⁛‥⁛⁝⁛⁝⁛⁝⁛‥⁛
+:::
+
+## ImaGEO
+
+## COSME 2
+
+## MASA
+
+## CORLI 1
+
+## CAHIER
+
+- Carnet hypothèses [@consortiumcahierCorpusDauteursPour2022].
+- Guide pour la FAIRisation des données des corpus d'auteurs [@groupedetravaildata_cahierGuidePourFAIRisation2020]
+
+## MUSICA
+
+## Archives des mondes contemporains (ArcMC)
+
+## Archives des ethnologues
+
+## Archives des sciences sociales du politique (Archipolis)
+
+## CORPUS ECRITS
+
+## IRCOM

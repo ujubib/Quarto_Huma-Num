@@ -38,11 +38,15 @@ p.subtitle {
     border-radius: 50%;
     border: 6px solid orangered;
 }
-/*
+
 .tab-content {
-    background-color: white;
+    background-color: snow;
 }
-*/
+
+.blockquote {
+    background-color: snow;
+}
+
 .figure {
     border-radius: 12px;
 }

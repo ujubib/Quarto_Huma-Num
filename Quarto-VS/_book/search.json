@@ -1,5 +1,278 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IR٭ Huma-Num :Trouvez votre consortium et utilisez les outils disponibles",
+    "section": "",
+    "text": "Des outils et des services numériquespour manipuler et produire des données FAIR\n\n\n\nDes consortiums thématiques pour collaborer, échanger, partager, élaborer des méthodologies, publier des guides ou des thésaurus, organiser des formations ou des journées d’études\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSite réalisé avec Quarto.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Accueil</span>"
+    ]
+  },
+  {
+    "objectID": "LesConsortiums.html",
+    "href": "LesConsortiums.html",
+    "title": "Histoire et Consortiums",
+    "section": "",
+    "text": "Historique\n\n\n\n\n\n\n\n\n\n\n\n\n\nLes consortiums actifs\n\n\n\n\n\n\n\n\n\n\n\n\n\nLes consortiums cloturés\n\n\n\n\n\n\n\nAucun article correspondant",
+    "crumbs": [
+      "Histoire et Consortiums"
+    ]
+  },
+  {
+    "objectID": "historique.html",
+    "href": "historique.html",
+    "title": "Historique",
+    "section": "",
+    "text": "Source officielle (Huma-Num, 2023) :\n\nhttps://www.huma-num.fr/quest-ce-que-l-ir-huma-num/\n\nHuma-Num est le produit de la fusion au 1er mars 2013 de deux infrastructures : le très grand équipement Adonis (TGE) et l’infrastructure de recherche Corpus (IR).\n\nEn mars 2007, Adonis (Accès unifié aux données et documents numériques des sciences humaines et sociales) est créé avec l’objectif de réaliser un accès unifié aux données en SHS. Le projet du TGE Adonis repose sur l’existence de données numériques structurées selon des schémas identifiables et acceptés par les communautés scientifiques productrices de données. L’interopérabilité des données constitue de ce fait une notion clef dans les dispositifs d’infrastructures SHS.\n\n\nANR Humanités numériques -&gt; 2005\nInfrastructure de Recherche (IR) Corpus -&gt; 2006\n\nTrès Grand Equipement (TGE) Adonis -&gt; 2007\nTrès Grande Infrastructure de Recherche (TGIR) Huma-Num -&gt; 2013\nInfrastructure de recherche étoile (IR*)\n\n\n\n\n\n\n\nHuma-Num. « Qu’est-ce que l’IR* Huma-Num ? » 2023. En ligne : https://www.huma-num.fr/quest-ce-que-l-ir-huma-num/ [consulté le 16 novembre 2024].",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Historique</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsactifs.html",
+    "href": "consortiumsactifs.html",
+    "title": "Les consortiums actifs",
+    "section": "",
+    "text": "Pictoria",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Les consortiums actifs</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsactifs.html#pictoria",
+    "href": "consortiumsactifs.html#pictoria",
+    "title": "Les consortiums actifs",
+    "section": "",
+    "text": "Liste de diffusion",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Les consortiums actifs</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsactifs.html#ariane",
+    "href": "consortiumsactifs.html#ariane",
+    "title": "Les consortiums actifs",
+    "section": "Ariane",
+    "text": "Ariane\n\nCollection HAL du Consortium-HN ARIANE (ARIANE, 2024)",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Les consortiums actifs</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsactifs.html#d-hn",
+    "href": "consortiumsactifs.html#d-hn",
+    "title": "Les consortiums actifs",
+    "section": "3D HN",
+    "text": "3D HN\n\nex 3D SHS.",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Les consortiums actifs</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsactifs.html#projets-time-machine",
+    "href": "consortiumsactifs.html#projets-time-machine",
+    "title": "Les consortiums actifs",
+    "section": "Projets Time Machine",
+    "text": "Projets Time Machine\n\nex Paris Time Machine.",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Les consortiums actifs</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsactifs.html#masa-plus",
+    "href": "consortiumsactifs.html#masa-plus",
+    "title": "Les consortiums actifs",
+    "section": "MASA Plus",
+    "text": "MASA Plus\n\ncarnet Hypothèses.org du Consortium\nliste de diffusion",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Les consortiums actifs</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsactifs.html#distam",
+    "href": "consortiumsactifs.html#distam",
+    "title": "Les consortiums actifs",
+    "section": "DISTAM",
+    "text": "DISTAM\n\ncarnet Hypothèses.org du Consortium (DISTAM, 2024)",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Les consortiums actifs</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsactifs.html#canevas",
+    "href": "consortiumsactifs.html#canevas",
+    "title": "Les consortiums actifs",
+    "section": "Canevas",
+    "text": "Canevas\n\nListe de diffusion",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Les consortiums actifs</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsactifs.html#musica-2",
+    "href": "consortiumsactifs.html#musica-2",
+    "title": "Les consortiums actifs",
+    "section": "MUSICA 2",
+    "text": "MUSICA 2",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Les consortiums actifs</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsactifs.html#corli",
+    "href": "consortiumsactifs.html#corli",
+    "title": "Les consortiums actifs",
+    "section": "CORLI",
+    "text": "CORLI",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Les consortiums actifs</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsactifs.html#sol",
+    "href": "consortiumsactifs.html#sol",
+    "title": "Les consortiums actifs",
+    "section": "SOL",
+    "text": "SOL\n\n\n\n\n\n\nARIANE. Collection HAL du Consortium-HN ARIANE. 2024. En ligne : https://theses.hal.science/CONSORTIUM-HN-ARIANE/ [consulté le 17 novembre 2024].\n\n\nDISTAM. « Carnet hypothèses du consortium Huma-Num DISTAM (DIgital STudies Africa, Asia, Middle East) – Agora numériques des études aréales – Afrique, Asie, Moyen-Orient et Mondes musulmans ». 2024. En ligne : https://distam.hypotheses.org/ [consulté le 20 novembre 2024].",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Les consortiums actifs</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsfinis.html",
+    "href": "consortiumsfinis.html",
+    "title": "Les consortiums cloturés",
+    "section": "",
+    "text": "ImaGEO",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les consortiums cloturés</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsfinis.html#cosme-2",
+    "href": "consortiumsfinis.html#cosme-2",
+    "title": "Les consortiums cloturés",
+    "section": "COSME 2",
+    "text": "COSME 2",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les consortiums cloturés</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsfinis.html#masa",
+    "href": "consortiumsfinis.html#masa",
+    "title": "Les consortiums cloturés",
+    "section": "MASA",
+    "text": "MASA",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les consortiums cloturés</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsfinis.html#corli-1",
+    "href": "consortiumsfinis.html#corli-1",
+    "title": "Les consortiums cloturés",
+    "section": "CORLI 1",
+    "text": "CORLI 1",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les consortiums cloturés</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsfinis.html#cahier",
+    "href": "consortiumsfinis.html#cahier",
+    "title": "Les consortiums cloturés",
+    "section": "CAHIER",
+    "text": "CAHIER\n\nCarnet hypothèses (Consortium Cahier, 2022).\nGuide pour la FAIRisation des données des corpus d’auteurs (Groupe de travail Data_Cahier et al., 2020)",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les consortiums cloturés</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsfinis.html#musica",
+    "href": "consortiumsfinis.html#musica",
+    "title": "Les consortiums cloturés",
+    "section": "MUSICA",
+    "text": "MUSICA",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les consortiums cloturés</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsfinis.html#archives-des-mondes-contemporains-arcmc",
+    "href": "consortiumsfinis.html#archives-des-mondes-contemporains-arcmc",
+    "title": "Les consortiums cloturés",
+    "section": "Archives des mondes contemporains (ArcMC)",
+    "text": "Archives des mondes contemporains (ArcMC)",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les consortiums cloturés</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsfinis.html#archives-des-ethnologues",
+    "href": "consortiumsfinis.html#archives-des-ethnologues",
+    "title": "Les consortiums cloturés",
+    "section": "Archives des ethnologues",
+    "text": "Archives des ethnologues",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les consortiums cloturés</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsfinis.html#archives-des-sciences-sociales-du-politique-archipolis",
+    "href": "consortiumsfinis.html#archives-des-sciences-sociales-du-politique-archipolis",
+    "title": "Les consortiums cloturés",
+    "section": "Archives des sciences sociales du politique (Archipolis)",
+    "text": "Archives des sciences sociales du politique (Archipolis)",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les consortiums cloturés</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsfinis.html#corpus-ecrits",
+    "href": "consortiumsfinis.html#corpus-ecrits",
+    "title": "Les consortiums cloturés",
+    "section": "CORPUS ECRITS",
+    "text": "CORPUS ECRITS",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les consortiums cloturés</span>"
+    ]
+  },
+  {
+    "objectID": "consortiumsfinis.html#ircom",
+    "href": "consortiumsfinis.html#ircom",
+    "title": "Les consortiums cloturés",
+    "section": "IRCOM",
+    "text": "IRCOM\n\n\n\n\n\n\nConsortium Cahier. « Corpus d’auteurs pour les humanités : informatication, édition, recherche ». 2022. En ligne : https://cahier.hypotheses.org/ [consulté le 19 novembre 2024].\n\n\nGroupe de travail Data_Cahier, Fatiha Idmhand, et Ioana Galleron. Guide pour la FAIRisation des données des corpus d’auteurs. Huma-Num. 2020. En ligne : https://shs.hal.science/halshs-03037748 [consulté le 20 novembre 2024].",
+    "crumbs": [
+      "Histoire et Consortiums",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Les consortiums cloturés</span>"
+    ]
+  },
+  {
     "objectID": "LesServices.html",
     "href": "LesServices.html",
     "title": "Les services",
@@ -7,6 +280,116 @@
     "text": "Utiliser et produire des données FAIR\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrésentation des services\n\n\n\n\n\n\n\n\n\n\n\n\n\nDocumentation et liens utiles\n\n\n\n\n\n\n\nAucun article correspondant",
     "crumbs": [
       "Les services"
+    ]
+  },
+  {
+    "objectID": "fair.html",
+    "href": "fair.html",
+    "title": "Utiliser et produire des données FAIR",
+    "section": "",
+    "text": "Accéssibilité et intéropérabilité au cœur du numérique",
+    "crumbs": [
+      "Les services",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Utiliser et produire des données FAIR</span>"
+    ]
+  },
+  {
+    "objectID": "fair.html#accéssibilité-et-intéropérabilité-au-cœur-du-numérique",
+    "href": "fair.html#accéssibilité-et-intéropérabilité-au-cœur-du-numérique",
+    "title": "Utiliser et produire des données FAIR",
+    "section": "",
+    "text": "Une inspiration majeure des principes FAIR : le 5-Star Open Data proné par Tim-Berners Lee, mis en forme par Michael Hausenblas sur ce site : http://5stardata.info/fr/ (Hausenblas, 2012).\n\n\n\n\n\n\nLes étapes 5-Star OpenData\n\n\n\n\n\n\nIllustration des étapes 5-Star OpenData\n\n\n\n\n\n\nétoiles\nétape\n\n\n\n\n★\nPubliez vos données sur le Web (peu importe leur format) avec une licence ouverte\n\n\n★★\nPubliez-les en tant que données structurées (par exemple, un document Excel au lieu d’une image scannée d’un tableau)\n\n\n★★★\nPubliez-les dans un format ouvert et non-propriétaire (par exemple, un CSV plutôt qu’un Excel)\n\n\n★★★★\nUtilisez des URI pour désigner des choses dans vos données, afin que les gens puissent faire des références à celles-ci\n\n\n★★★★★\nliez vos données à d’autres données pour y ajouter du contexte\n\n\n\n\n\n\n\n\nFAIR Guiding Principles\nD’après l’article de référence The FAIR Guiding Principles for Scientific Data Management and Stewardship (Wilkinson et al., 2016)\nMis en items sur ce site web :\n\n\n\n\n\n\nThe principles refer to three types of entities: data (or any digital object), metadata (information about that digital object), and infrastructure. For instance, principle F4 defines that both metadata and data are registered or indexed in a searchable resource (the infrastructure component).\n\n\nFindableAccessibleInteroperableReusable\n\n\nThe first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the FAIRification process.\n\nF1. (Meta)data are assigned a globally unique and persistent identifier\nF2. Data are described with rich metadata (defined by R1 below)\nF3. Metadata clearly and explicitly include the identifier of the data they describe\nF4. (Meta)data are registered or indexed in a searchable resource\n\n\n\nOnce the user finds the required data, she/he/they need to know how can they be accessed, possibly including authentication and authorisation.\n\nA1. (Meta)data are retrievable by their identifier using a standardised communications protocol\n\nA1.1 The protocol is open, free, and universally implementable\nA1.2 The protocol allows for an authentication and authorisation procedure, where necessary\n\nA2. Metadata are accessible, even when the data are no longer available\n\n\n\nThe data usually need to be integrated with other data. In addition, the data need to interoperate with applications or workflows for analysis, storage, and processing.\n\nI1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.\nI2. (Meta)data use vocabularies that follow FAIR principles\nI3. (Meta)data include qualified references to other (meta)data\n\n\n\nThe ultimate goal of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings.\n\nR1. (Meta)data are richly described with a plurality of accurate and relevant attributes\n\nR1.1. (Meta)data are released with a clear and accessible data usage license\nR1.2. (Meta)data are associated with detailed provenance\nR1.3. (Meta)data meet domain-relevant community standards",
+    "crumbs": [
+      "Les services",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Utiliser et produire des données FAIR</span>"
+    ]
+  },
+  {
+    "objectID": "fair.html#isidore",
+    "href": "fair.html#isidore",
+    "title": "Utiliser et produire des données FAIR",
+    "section": "Isidore",
+    "text": "Isidore\n\n\n\nISIDORE\n\n\n\nhttps://isidore.science\n\n\nHuman-ID\nVoir Human-ID\n\n\n\n\n\nISIDORE\n\n\n\nHausenblas, Michael. Open Data 5 étoiles. 2012. En ligne : http://5stardata.info/fr/ [consulté le 17 novembre 2024].\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, et al. « The FAIR Guiding Principles for scientific data management and stewardship », Scientific Data. 15 mars 2016, vol.3 nᵒ 1. p. 160018. En ligne : https://www.nature.com/articles/sdata201618 [consulté le 17 novembre 2024].",
+    "crumbs": [
+      "Les services",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Utiliser et produire des données FAIR</span>"
+    ]
+  },
+  {
+    "objectID": "services-doc.html",
+    "href": "services-doc.html",
+    "title": "Documentation et liens utiles",
+    "section": "",
+    "text": "Culture numérique (Généralités)",
+    "crumbs": [
+      "Les services",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Documentation et liens utiles</span>"
+    ]
+  },
+  {
+    "objectID": "services-doc.html#documentation-officielle",
+    "href": "services-doc.html#documentation-officielle",
+    "title": "Documentation et liens utiles",
+    "section": "",
+    "text": "(Huma-Num, 2024)",
+    "crumbs": [
+      "Les services",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Documentation et liens utiles</span>"
+    ]
+  },
+  {
+    "objectID": "services-doc.html#liens-utiles",
+    "href": "services-doc.html#liens-utiles",
+    "title": "Documentation et liens utiles",
+    "section": "Liens utiles",
+    "text": "Liens utiles\n\nCollection Zenodo du Huma-Num Lab\nhttps://zenodo.org/communities/hn_lab (Huma-Num Lab, 2024)\n\n\nCollection HAL du Consortium-HN ARIANE\nhttps://theses.hal.science/CONSORTIUM-HN-ARIANE/ (ARIANE, 2024)",
+    "crumbs": [
+      "Les services",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Documentation et liens utiles</span>"
+    ]
+  },
+  {
+    "objectID": "services-doc.html#sec-humanid",
+    "href": "services-doc.html#sec-humanid",
+    "title": "Documentation et liens utiles",
+    "section": "Human-ID",
+    "text": "Human-ID\nhttps://humanid.huma-num.fr\n\npour une utilisation personnalisée et avancée d’ISIDORE.\npour écrire des articles scientifiques avec Stylo.\npour demander un accès aux autres services numériques d’Huma-Num\n\n\n\n\n\n\n\nARIANE. Collection HAL du Consortium-HN ARIANE. 2024. En ligne : https://theses.hal.science/CONSORTIUM-HN-ARIANE/ [consulté le 17 novembre 2024].\n\n\nHuma-Num. Documentation de l’IR* Huma-Num. 2024. En ligne : https://documentation.huma-num.fr/ [consulté le 17 novembre 2024].\n\n\nHuma-Num Lab. Collection HN Lab. 2024. En ligne : https://zenodo.org/communities/hn_lab/ [consulté le 17 novembre 2024].",
+    "crumbs": [
+      "Les services",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Documentation et liens utiles</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Annexe A — References bibliographiques",
+    "section": "",
+    "text": "ARIANE. Collection HAL du\nConsortium-HN ARIANE. 2024. En ligne : https://theses.hal.science/CONSORTIUM-HN-ARIANE/\n[consulté le 17 novembre 2024].\n\n\nConsortium Cahier. « Corpus\nd’auteurs pour les humanités : informatication, édition,\nrecherche ». 2022. En ligne : https://cahier.hypotheses.org/\n[consulté le 19 novembre 2024].\n\n\nHausenblas, Michael. Open Data 5\nétoiles. 2012. En ligne : http://5stardata.info/fr/ [consulté\nle 17 novembre 2024].\n\n\nHuma-Num. Documentation de l’IR*\nHuma-Num. 2024. En ligne : https://documentation.huma-num.fr/\n[consulté le 17 novembre 2024].\n\n\nHuma-Num. « Qu’est-ce que l’IR*\nHuma-Num ? » 2023. En ligne : https://www.huma-num.fr/quest-ce-que-l-ir-huma-num/\n[consulté le 16 novembre 2024].\n\n\nHuma-Num Lab. Collection HN Lab.\n2024. En ligne : https://zenodo.org/communities/hn_lab/\n[consulté le 17 novembre 2024].\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, et al. « The FAIR Guiding\nPrinciples for scientific data management and stewardship »,\nScientific Data. 15 mars 2016, vol.3 nᵒ 1. p. 160018. En ligne\n: https://www.nature.com/articles/sdata201618\n[consulté le 17 novembre 2024].",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>References bibliographiques</span>"
+    ]
+  },
+  {
+    "objectID": "services-doc.html#culture-numérique-généralités",
+    "href": "services-doc.html#culture-numérique-généralités",
+    "title": "Documentation et liens utiles",
+    "section": "",
+    "text": "Les cours d’Arthur Perret : plus particulièrement :\n\nSérialisation de données\nLigne de commande\nIntroduction à la publication web\n\nDébogue tes humanités : https://debogue.ecrituresnumeriques.ca",
+    "crumbs": [
+      "Les services",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Documentation et liens utiles</span>"
+    ]
+  },
+  {
+    "objectID": "services-doc.html#documentation-officielle-des-services-huma-num",
+    "href": "services-doc.html#documentation-officielle-des-services-huma-num",
+    "title": "Documentation et liens utiles",
+    "section": "Documentation officielle des services Huma-Num",
+    "text": "Documentation officielle des services Huma-Num\nhttps://documentation.huma-num.fr (Huma-Num, 2024)",
+    "crumbs": [
+      "Les services",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Documentation et liens utiles</span>"
     ]
   }
 ]

@@ -4,34 +4,34 @@ image: IMG/documentation.png
 
 # Documentation et liens utiles
 
+## Culture numérique (Généralités)
 
-## Documentation officielle
+- [Les cours d'Arthur Perret](https://www.arthurperret.fr/cours/) : plus particulièrement : 
+  - [Sérialisation de données](https://www.arthurperret.fr/cours/serialisation.html)
+  - [Ligne de commande](https://www.arthurperret.fr/cours/ligne-de-commande.html)
+  - [Introduction à la publication web](https://www.arthurperret.fr/cours/publication-web.html)
 
-<https://documentation.huma-num.fr>
+- Débogue tes humanités : <https://debogue.ecrituresnumeriques.ca>
 
-- [@huma-numDocumentationLIRHumaNum2024]
+## Documentation officielle des services *Huma-Num*
+
+<https://documentation.huma-num.fr> [@huma-numDocumentationLIRHumaNum2024]
+
+![](IMG/DocHumaNum.png)
+
 
 ## Liens utiles
 
 ### Collection Zenodo du Huma-Num Lab
 
-<https://zenodo.org/communities/hn_lab>
-
-- [@huma-numlabCollectionHNLab2024]
-
-### Collection HAL du Consortium-HN ARIANE
-
-<https://theses.hal.science/CONSORTIUM-HN-ARIANE/>
-
-- [@arianeCollectionHALConsortiumHN2024]
-
+<https://zenodo.org/communities/hn_lab> [@huma-numlabCollectionHNLab2024]
 
 ## Human-ID {#sec-humanid}
 
 <https://humanid.huma-num.fr>
 
 
-- pour [ISIDORE](https://isidore.science)
-- pour [Stylo](https://stylo.huma-num.fr)
+- Pour une utilisation personnalisée et avancée d'[ISIDORE](https://isidore.science).
+- Pour écrire des articles scientifiques avec [Stylo](https://stylo.huma-num.fr).
 
-- *pour demander accès aux autres services numériques Huma-Num*
+- *Pour demander un accès aux autres services numériques d'Huma-Num*

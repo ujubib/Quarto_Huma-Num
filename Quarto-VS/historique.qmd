@@ -14,3 +14,8 @@ image: IMG/tge-adonis-2-300x52.png
     > En mars 2007, **Adonis** (*Accès unifié aux données et documents numériques des sciences humaines et sociales*) est créé avec l’objectif de réaliser un accès unifié aux données en SHS. Le projet du TGE Adonis repose sur l’existence de données numériques structurées selon des schémas identifiables et acceptés par les communautés scientifiques productrices de données. L’**interopérabilité** des données constitue de ce fait **une notion clef dans les dispositifs d’infrastructures SHS**.
     >
 
+- ANR *Humanités numériques* -> 2005
+- Infrastructure de Recherche (IR) **Corpus** -> 2006  
+- Très Grand Equipement (TGE) **Adonis** -> 2007
+- Très Grande Infrastructure de Recherche (TGIR) **Huma-Num** -> 2013
+- Infrastructure de recherche étoile (IR*)

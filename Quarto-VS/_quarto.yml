@@ -19,7 +19,10 @@ book:
   repo-subdir: "/Quarto-VS/"
   repo-actions: [source, issue]
   downloads: [pdf, epub, docx]
+  open-graph: true
+  reader-mode: true
   page-navigation: true
+  bread-crumbs: false
   page-footer:
     background: FloralWhite
     border: false
@@ -73,6 +76,9 @@ format:
     documentclass: scrreport
     number-sections: false
     links-as-notes: true
+    toc: true
+    toc-depth: 5
+    toc-title: "Sommaire"
     lof: true
     lot: true
   epub: 
@@ -81,6 +87,8 @@ format:
   docx:
     lang: fr
     toc: true
+    toc-depth: 5
+    toc-title: "Sommaire"
     number-sections: false
 
 
