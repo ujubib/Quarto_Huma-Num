@@ -17,7 +17,7 @@ image: IMG/documentation.png
 
 <https://documentation.huma-num.fr> [@huma-numDocumentationLIRHumaNum2024]
 
-![](IMG/DocHumaNum.png)
+![Documentation officielle de l'infrastructure et des services *Huma-Num* (éditée et publiée avec *MkDocs*)](IMG/DocHumaNum.png)
 
 
 ## Liens utiles
@@ -34,4 +34,4 @@ image: IMG/documentation.png
 - Pour une utilisation personnalisée et avancée d'[ISIDORE](https://isidore.science).
 - Pour écrire des articles scientifiques avec [Stylo](https://stylo.huma-num.fr).
 
-- *Pour demander un accès aux autres services numériques d'Huma-Num*
+- *Pour demander un accès aux autres services numériques proposés par* Huma-Num.

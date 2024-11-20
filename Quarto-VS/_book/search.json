@@ -327,50 +327,6 @@
     ]
   },
   {
-    "objectID": "services-doc.html#documentation-officielle",
-    "href": "services-doc.html#documentation-officielle",
-    "title": "Documentation et liens utiles",
-    "section": "",
-    "text": "(Huma-Num, 2024)",
-    "crumbs": [
-      "Les services",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Documentation et liens utiles</span>"
-    ]
-  },
-  {
-    "objectID": "services-doc.html#liens-utiles",
-    "href": "services-doc.html#liens-utiles",
-    "title": "Documentation et liens utiles",
-    "section": "Liens utiles",
-    "text": "Liens utiles\n\nCollection Zenodo du Huma-Num Lab\nhttps://zenodo.org/communities/hn_lab (Huma-Num Lab, 2024)\n\n\nCollection HAL du Consortium-HN ARIANE\nhttps://theses.hal.science/CONSORTIUM-HN-ARIANE/ (ARIANE, 2024)",
-    "crumbs": [
-      "Les services",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Documentation et liens utiles</span>"
-    ]
-  },
-  {
-    "objectID": "services-doc.html#sec-humanid",
-    "href": "services-doc.html#sec-humanid",
-    "title": "Documentation et liens utiles",
-    "section": "Human-ID",
-    "text": "Human-ID\nhttps://humanid.huma-num.fr\n\npour une utilisation personnalisée et avancée d’ISIDORE.\npour écrire des articles scientifiques avec Stylo.\npour demander un accès aux autres services numériques d’Huma-Num\n\n\n\n\n\n\n\nARIANE. Collection HAL du Consortium-HN ARIANE. 2024. En ligne : https://theses.hal.science/CONSORTIUM-HN-ARIANE/ [consulté le 17 novembre 2024].\n\n\nHuma-Num. Documentation de l’IR* Huma-Num. 2024. En ligne : https://documentation.huma-num.fr/ [consulté le 17 novembre 2024].\n\n\nHuma-Num Lab. Collection HN Lab. 2024. En ligne : https://zenodo.org/communities/hn_lab/ [consulté le 17 novembre 2024].",
-    "crumbs": [
-      "Les services",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Documentation et liens utiles</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "Annexe A — References bibliographiques",
-    "section": "",
-    "text": "ARIANE. Collection HAL du\nConsortium-HN ARIANE. 2024. En ligne : https://theses.hal.science/CONSORTIUM-HN-ARIANE/\n[consulté le 17 novembre 2024].\n\n\nConsortium Cahier. « Corpus\nd’auteurs pour les humanités : informatication, édition,\nrecherche ». 2022. En ligne : https://cahier.hypotheses.org/\n[consulté le 19 novembre 2024].\n\n\nHausenblas, Michael. Open Data 5\nétoiles. 2012. En ligne : http://5stardata.info/fr/ [consulté\nle 17 novembre 2024].\n\n\nHuma-Num. Documentation de l’IR*\nHuma-Num. 2024. En ligne : https://documentation.huma-num.fr/\n[consulté le 17 novembre 2024].\n\n\nHuma-Num. « Qu’est-ce que l’IR*\nHuma-Num ? » 2023. En ligne : https://www.huma-num.fr/quest-ce-que-l-ir-huma-num/\n[consulté le 16 novembre 2024].\n\n\nHuma-Num Lab. Collection HN Lab.\n2024. En ligne : https://zenodo.org/communities/hn_lab/\n[consulté le 17 novembre 2024].\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, et al. « The FAIR Guiding\nPrinciples for scientific data management and stewardship »,\nScientific Data. 15 mars 2016, vol.3 nᵒ 1. p. 160018. En ligne\n: https://www.nature.com/articles/sdata201618\n[consulté le 17 novembre 2024].",
-    "crumbs": [
-      "Appendices",
-      "<span class='chapter-number'>A</span>  <span class='chapter-title'>References bibliographiques</span>"
-    ]
-  },
-  {
     "objectID": "services-doc.html#culture-numérique-généralités",
     "href": "services-doc.html#culture-numérique-généralités",
     "title": "Documentation et liens utiles",
@@ -386,10 +342,43 @@
     "href": "services-doc.html#documentation-officielle-des-services-huma-num",
     "title": "Documentation et liens utiles",
     "section": "Documentation officielle des services Huma-Num",
-    "text": "Documentation officielle des services Huma-Num\nhttps://documentation.huma-num.fr (Huma-Num, 2024)",
+    "text": "Documentation officielle des services Huma-Num\nhttps://documentation.huma-num.fr (Huma-Num, 2024)\n\n\n\nDocumentation officielle de l’infrastructure et des services Huma-Num (éditée et publiée avec MkDocs)",
     "crumbs": [
       "Les services",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Documentation et liens utiles</span>"
+    ]
+  },
+  {
+    "objectID": "services-doc.html#liens-utiles",
+    "href": "services-doc.html#liens-utiles",
+    "title": "Documentation et liens utiles",
+    "section": "Liens utiles",
+    "text": "Liens utiles\n\nCollection Zenodo du Huma-Num Lab\nhttps://zenodo.org/communities/hn_lab (Huma-Num Lab, 2024)",
+    "crumbs": [
+      "Les services",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Documentation et liens utiles</span>"
+    ]
+  },
+  {
+    "objectID": "services-doc.html#sec-humanid",
+    "href": "services-doc.html#sec-humanid",
+    "title": "Documentation et liens utiles",
+    "section": "Human-ID",
+    "text": "Human-ID\nhttps://humanid.huma-num.fr\n\nPour une utilisation personnalisée et avancée d’ISIDORE.\nPour écrire des articles scientifiques avec Stylo.\nPour demander un accès aux autres services numériques proposés par Huma-Num.\n\n\n\n\n\n\nDocumentation officielle de l’infrastructure et des services Huma-Num (éditée et publiée avec MkDocs)\n\n\n\nHuma-Num. Documentation de l’IR* Huma-Num. 2024. En ligne : https://documentation.huma-num.fr/ [consulté le 17 novembre 2024].\n\n\nHuma-Num Lab. Collection HN Lab. 2024. En ligne : https://zenodo.org/communities/hn_lab/ [consulté le 17 novembre 2024].",
+    "crumbs": [
+      "Les services",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Documentation et liens utiles</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Annexe A — References bibliographiques",
+    "section": "",
+    "text": "ARIANE. Collection HAL du\nConsortium-HN ARIANE. 2024. En ligne : https://theses.hal.science/CONSORTIUM-HN-ARIANE/\n[consulté le 17 novembre 2024].\n\n\nConsortium Cahier. « Corpus\nd’auteurs pour les humanités : informatication, édition,\nrecherche ». 2022. En ligne : https://cahier.hypotheses.org/\n[consulté le 19 novembre 2024].\n\n\nDISTAM. « Carnet hypothèses du\nconsortium Huma-Num DISTAM (DIgital STudies Africa, Asia, Middle East) –\nAgora numériques des études aréales – Afrique, Asie, Moyen-Orient et\nMondes musulmans ». 2024. En ligne : https://distam.hypotheses.org/\n[consulté le 20 novembre 2024].\n\n\nGroupe de travail Data_Cahier, Fatiha\nIdmhand, et Ioana Galleron. Guide pour la FAIRisation des\ndonnées des corpus d’auteurs. Huma-Num. 2020. En ligne : https://shs.hal.science/halshs-03037748\n[consulté le 20 novembre 2024].\n\n\nHausenblas, Michael. Open Data 5\nétoiles. 2012. En ligne : http://5stardata.info/fr/ [consulté\nle 17 novembre 2024].\n\n\nHuma-Num. Documentation de l’IR*\nHuma-Num. 2024. En ligne : https://documentation.huma-num.fr/\n[consulté le 17 novembre 2024].\n\n\nHuma-Num. « Qu’est-ce que l’IR*\nHuma-Num ? » 2023. En ligne : https://www.huma-num.fr/quest-ce-que-l-ir-huma-num/\n[consulté le 16 novembre 2024].\n\n\nHuma-Num Lab. Collection HN Lab.\n2024. En ligne : https://zenodo.org/communities/hn_lab/\n[consulté le 17 novembre 2024].\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, et al. « The FAIR Guiding\nPrinciples for scientific data management and stewardship »,\nScientific Data. 15 mars 2016, vol.3 nᵒ 1. p. 160018. En ligne\n: https://www.nature.com/articles/sdata201618\n[consulté le 17 novembre 2024].",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>References bibliographiques</span>"
     ]
   }
 ]
