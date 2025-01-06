@@ -35,3 +35,4 @@ image: IMG/documentation.png
 - Pour écrire des articles scientifiques avec [Stylo](https://stylo.huma-num.fr).
 
 - *Pour demander un accès aux autres services numériques proposés par* Huma-Num.
+

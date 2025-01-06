@@ -44,6 +44,8 @@ Tous les consortiums communiquent sur
 
 ## Ariane
 
+Analyses, Recherches, Intelligence Artificielle et Nouvelles Editions numériques <https://cst-ariane.huma-num.fr/>
+
 - Collection HAL du Consortium-HN ARIANE [@arianeCollectionHALConsortiumHN2024]
 
 ## 3D HN
@@ -70,5 +72,19 @@ Tous les consortiums communiquent sur
 ## MUSICA 2
 
 ## CORLI
+
+**COR**pus, **L**angues et **I**nteractions <https://corli.huma-num.fr/fr>
+
+- [Participer aux groupes-réseaux](https://corli.huma-num.fr/fr/groupes-reseaux/)
+
+  - Interopérabilité / Pratique et outils d’exploration de corpus
+  - Multimodalités et nouvelles formes de communication
+  - QUECJ – Questions Ethiques & Cadre Juridique – QuECJ [kəsɛʒ]
+  - Annotation
+
+### Ressources 
+
+- [PGD – Plan de Gestion de Données](https://corli.huma-num.fr/fr/gestion-des-donnees/)
+- [Fiche supports de formation](https://corli.huma-num.fr/fr/category/fiche-supports-de-formation/)
 
 ## SOL

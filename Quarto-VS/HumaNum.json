@@ -1,11 +1,526 @@
 [
-  {"id":"arianeCollectionHALConsortiumHN2024","accessed":{"date-parts":[["2024",11,17]]},"author":[{"literal":"ARIANE"}],"citation-key":"arianeCollectionHALConsortiumHN2024","container-title":"HAL","issued":{"date-parts":[["2024"]]},"language":"fr","title":"Collection HAL du Consortium-HN ARIANE","type":"webpage","URL":"https://theses.hal.science/CONSORTIUM-HN-ARIANE/"},
-  {"id":"consortiumcahierCorpusDauteursPour2022","accessed":{"date-parts":[["2024",11,19]]},"author":[{"literal":"Consortium Cahier"}],"citation-key":"consortiumcahierCorpusDauteursPour2022","genre":"Carnet Hypothèses.org","ISSN":"2496-0462","issued":{"date-parts":[["2022",4,12]]},"language":"fr-FR","title":"Corpus d'auteurs pour les humanités : informatication, édition, recherche","title-short":"Consortium Cahier – Corpus d'auteurs pour les humanités","type":"post-weblog","URL":"https://cahier.hypotheses.org/"},
-  {"id":"distamCarnetHypothesesConsortium2024","accessed":{"date-parts":[["2024",11,20]]},"author":[{"literal":"DISTAM"}],"citation-key":"distamCarnetHypothesesConsortium2024","genre":"Carnet Hypothèses.org","ISSN":"2824-2807","issued":{"date-parts":[["2024",11,8]]},"language":"fr-FR","title":"Carnet hypothèses du consortium Huma-Num DISTAM (DIgital STudies Africa, Asia, Middle East) – Agora numériques des études aréales – Afrique, Asie, Moyen-Orient et Mondes musulmans","type":"post-weblog","URL":"https://distam.hypotheses.org/"},
-  {"id":"groupedetravaildata_cahierGuidePourFAIRisation2020","accessed":{"date-parts":[["2024",11,20]]},"author":[{"literal":"Groupe de travail Data_Cahier"},{"family":"Idmhand","given":"Fatiha"},{"family":"Galleron","given":"Ioana"}],"citation-key":"groupedetravaildata_cahierGuidePourFAIRisation2020","genre":"report","issued":{"date-parts":[["2020",9,6]]},"language":"fr","publisher":"Huma-Num","source":"hal.science","title":"Guide pour la FAIRisation des données des corpus d'auteurs","type":"report","URL":"https://shs.hal.science/halshs-03037748"},
-  {"id":"hausenblasOpenData52012","abstract":"Information sur le programme Open Data 5 étoiles de Tim Berners-Lee","accessed":{"date-parts":[["2024",11,17]]},"author":[{"family":"Hausenblas","given":"Michael"}],"citation-key":"hausenblasOpenData52012","container-title":"5stardata.info","issued":{"date-parts":[["2012",1,22]]},"language":"fr","title":"Open Data 5 étoiles","type":"webpage","URL":"http://5stardata.info/fr/"},
-  {"id":"huma-numDocumentationLIRHumaNum2024","abstract":"Documentation des services numériques de Huma-Num. Elle regroupe les documents sur ISIDORE, NAKALA, ShareDocs, Huma-num Box, etc.","accessed":{"date-parts":[["2024",11,17]]},"author":[{"family":"Huma-Num","given":""}],"citation-key":"huma-numDocumentationLIRHumaNum2024","container-title":"Documentation de l'IR* Huma-Num","genre":"Page Web","issued":{"date-parts":[["2024",11,14]]},"language":"fre","publisher":"IR* Huma-Num","title":"Documentation de l'IR* Huma-Num","type":"webpage","URL":"https://documentation.huma-num.fr/"},
-  {"id":"huma-numlabCollectionHNLab2024","accessed":{"date-parts":[["2024",11,17]]},"author":[{"literal":"Huma-Num Lab"}],"citation-key":"huma-numlabCollectionHNLab2024","container-title":"Zenodo","issued":{"date-parts":[["2024"]]},"title":"Collection HN Lab","type":"webpage","URL":"https://zenodo.org/communities/hn_lab/"},
-  {"id":"huma-numQuestceQueLIR2023","accessed":{"date-parts":[["2024",11,16]]},"author":[{"literal":"Huma-Num"}],"citation-key":"huma-numQuestceQueLIR2023","issued":{"date-parts":[["2023"]]},"language":"fr-FR","title":"Qu’est-ce que l’IR* Huma-Num ?","title-short":"Qu’est-ce que l’IR* Huma-Num ?","type":"post-weblog","URL":"https://www.huma-num.fr/quest-ce-que-l-ir-huma-num/"},
-  {"id":"wilkinsonFAIRGuidingPrinciples2016b","abstract":"There is an urgent need to improve the infrastructure supporting the reuse of scholarly data. A diverse set of stakeholders—representing academia, industry, funding agencies, and scholarly publishers—have come together to design and jointly endorse a concise and measureable set of principles that we refer to as the FAIR Data Principles. The intent is that these may act as a guideline for those wishing to enhance the reusability of their data holdings. Distinct from peer initiatives that focus on the human scholar, the FAIR Principles put specific emphasis on enhancing the ability of machines to automatically find and use the data, in addition to supporting its reuse by individuals. This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.","accessed":{"date-parts":[["2024",11,17]]},"author":[{"family":"Wilkinson","given":"Mark D."},{"family":"Dumontier","given":"Michel"},{"family":"Aalbersberg","given":"IJsbrand Jan"},{"family":"Appleton","given":"Gabrielle"},{"family":"Axton","given":"Myles"},{"family":"Baak","given":"Arie"},{"family":"Blomberg","given":"Niklas"},{"family":"Boiten","given":"Jan-Willem"},{"family":"Silva Santos","given":"Luiz Bonino","non-dropping-particle":"da"},{"family":"Bourne","given":"Philip E."},{"family":"Bouwman","given":"Jildau"},{"family":"Brookes","given":"Anthony J."},{"family":"Clark","given":"Tim"},{"family":"Crosas","given":"Mercè"},{"family":"Dillo","given":"Ingrid"},{"family":"Dumon","given":"Olivier"},{"family":"Edmunds","given":"Scott"},{"family":"Evelo","given":"Chris T."},{"family":"Finkers","given":"Richard"},{"family":"Gonzalez-Beltran","given":"Alejandra"},{"family":"Gray","given":"Alasdair J. G."},{"family":"Groth","given":"Paul"},{"family":"Goble","given":"Carole"},{"family":"Grethe","given":"Jeffrey S."},{"family":"Heringa","given":"Jaap"},{"family":"Hoen","given":"Peter A. C.","non-dropping-particle":"’t"},{"family":"Hooft","given":"Rob"},{"family":"Kuhn","given":"Tobias"},{"family":"Kok","given":"Ruben"},{"family":"Kok","given":"Joost"},{"family":"Lusher","given":"Scott J."},{"family":"Martone","given":"Maryann E."},{"family":"Mons","given":"Albert"},{"family":"Packer","given":"Abel L."},{"family":"Persson","given":"Bengt"},{"family":"Rocca-Serra","given":"Philippe"},{"family":"Roos","given":"Marco"},{"family":"Schaik","given":"Rene","non-dropping-particle":"van"},{"family":"Sansone","given":"Susanna-Assunta"},{"family":"Schultes","given":"Erik"},{"family":"Sengstag","given":"Thierry"},{"family":"Slater","given":"Ted"},{"family":"Strawn","given":"George"},{"family":"Swertz","given":"Morris A."},{"family":"Thompson","given":"Mark"},{"family":"Lei","given":"Johan","non-dropping-particle":"van der"},{"family":"Mulligen","given":"Erik","non-dropping-particle":"van"},{"family":"Velterop","given":"Jan"},{"family":"Waagmeester","given":"Andra"},{"family":"Wittenburg","given":"Peter"},{"family":"Wolstencroft","given":"Katherine"},{"family":"Zhao","given":"Jun"},{"family":"Mons","given":"Barend"}],"citation-key":"wilkinsonFAIRGuidingPrinciples2016b","container-title":"Scientific Data","container-title-short":"Sci Data","DOI":"10.1038/sdata.2016.18","ISSN":"2052-4463","issue":"1","issued":{"date-parts":[["2016",3,15]]},"language":"en","license":"2016 The Author(s)","page":"160018","publisher":"Nature Publishing Group","source":"www.nature.com","title":"The FAIR Guiding Principles for scientific data management and stewardship","type":"article-journal","URL":"https://www.nature.com/articles/sdata201618","volume":"3"}
+  {
+    "id": "arianeCollectionHALConsortiumHN2024",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          11,
+          17
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "ARIANE"
+      }
+    ],
+    "citation-key": "arianeCollectionHALConsortiumHN2024",
+    "container-title": "HAL",
+    "issued": {
+      "date-parts": [
+        [
+          "2024"
+        ]
+      ]
+    },
+    "language": "fr",
+    "title": "Collection HAL du Consortium-HN ARIANE",
+    "type": "webpage",
+    "URL": "https://theses.hal.science/CONSORTIUM-HN-ARIANE/"
+  },
+  {
+    "id": "consortiumcahierCorpusDauteursPour2022",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          11,
+          19
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Consortium Cahier"
+      }
+    ],
+    "citation-key": "consortiumcahierCorpusDauteursPour2022",
+    "genre": "Carnet Hypothèses.org",
+    "ISSN": "2496-0462",
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          4,
+          12
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "title": "Corpus d'auteurs pour les humanités : informatication, édition, recherche",
+    "title-short": "Consortium Cahier – Corpus d'auteurs pour les humanités",
+    "type": "post-weblog",
+    "URL": "https://cahier.hypotheses.org/"
+  },
+  {
+    "id": "distamCarnetHypothesesConsortium2024",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          11,
+          20
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "DISTAM"
+      }
+    ],
+    "citation-key": "distamCarnetHypothesesConsortium2024",
+    "genre": "Carnet Hypothèses.org",
+    "ISSN": "2824-2807",
+    "issued": {
+      "date-parts": [
+        [
+          "2024",
+          11,
+          8
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "title": "Carnet hypothèses du consortium Huma-Num DISTAM (DIgital STudies Africa, Asia, Middle East) – Agora numériques des études aréales – Afrique, Asie, Moyen-Orient et Mondes musulmans",
+    "type": "post-weblog",
+    "URL": "https://distam.hypotheses.org/"
+  },
+  {
+    "id": "groupedetravaildata_cahierGuidePourFAIRisation2020",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          11,
+          20
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Groupe de travail Data_Cahier"
+      },
+      {
+        "family": "Idmhand",
+        "given": "Fatiha"
+      },
+      {
+        "family": "Galleron",
+        "given": "Ioana"
+      }
+    ],
+    "citation-key": "groupedetravaildata_cahierGuidePourFAIRisation2020",
+    "genre": "report",
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          9,
+          6
+        ]
+      ]
+    },
+    "language": "fr",
+    "publisher": "Huma-Num",
+    "source": "hal.science",
+    "title": "Guide pour la FAIRisation des données des corpus d'auteurs",
+    "type": "report",
+    "URL": "https://shs.hal.science/halshs-03037748"
+  },
+  {
+    "id": "hausenblasOpenData52012",
+    "abstract": "Information sur le programme Open Data 5 étoiles de Tim Berners-Lee",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          11,
+          17
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Hausenblas",
+        "given": "Michael"
+      }
+    ],
+    "citation-key": "hausenblasOpenData52012",
+    "container-title": "5stardata.info",
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          1,
+          22
+        ]
+      ]
+    },
+    "language": "fr",
+    "title": "Open Data 5 étoiles",
+    "type": "webpage",
+    "URL": "http://5stardata.info/fr/"
+  },
+  {
+    "id": "huma-numDocumentationLIRHumaNum2024",
+    "abstract": "Documentation des services numériques de Huma-Num. Elle regroupe les documents sur ISIDORE, NAKALA, ShareDocs, Huma-num Box, etc.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          11,
+          17
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Huma-Num",
+        "given": ""
+      }
+    ],
+    "citation-key": "huma-numDocumentationLIRHumaNum2024",
+    "container-title": "Documentation de l'IR* Huma-Num",
+    "genre": "Page Web",
+    "issued": {
+      "date-parts": [
+        [
+          "2024",
+          11,
+          14
+        ]
+      ]
+    },
+    "language": "fre",
+    "publisher": "IR* Huma-Num",
+    "title": "Documentation de l'IR* Huma-Num",
+    "type": "webpage",
+    "URL": "https://documentation.huma-num.fr/"
+  },
+  {
+    "id": "huma-numlabCollectionHNLab2024",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          11,
+          17
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Huma-Num Lab"
+      }
+    ],
+    "citation-key": "huma-numlabCollectionHNLab2024",
+    "container-title": "Zenodo",
+    "issued": {
+      "date-parts": [
+        [
+          "2024"
+        ]
+      ]
+    },
+    "title": "Collection HN Lab",
+    "type": "webpage",
+    "URL": "https://zenodo.org/communities/hn_lab/"
+  },
+  {
+    "id": "huma-numQuestceQueLIR2023",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          11,
+          16
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Huma-Num"
+      }
+    ],
+    "citation-key": "huma-numQuestceQueLIR2023",
+    "issued": {
+      "date-parts": [
+        [
+          "2023"
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "title": "Qu’est-ce que l’IR* Huma-Num ?",
+    "title-short": "Qu’est-ce que l’IR* Huma-Num ?",
+    "type": "post-weblog",
+    "URL": "https://www.huma-num.fr/quest-ce-que-l-ir-huma-num/"
+  },
+  {
+    "id": "wilkinsonFAIRGuidingPrinciples2016b",
+    "abstract": "There is an urgent need to improve the infrastructure supporting the reuse of scholarly data. A diverse set of stakeholders—representing academia, industry, funding agencies, and scholarly publishers—have come together to design and jointly endorse a concise and measureable set of principles that we refer to as the FAIR Data Principles. The intent is that these may act as a guideline for those wishing to enhance the reusability of their data holdings. Distinct from peer initiatives that focus on the human scholar, the FAIR Principles put specific emphasis on enhancing the ability of machines to automatically find and use the data, in addition to supporting its reuse by individuals. This Comment is the first formal publication of the FAIR Principles, and includes the rationale behind them, and some exemplar implementations in the community.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          11,
+          17
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Wilkinson",
+        "given": "Mark D."
+      },
+      {
+        "family": "Dumontier",
+        "given": "Michel"
+      },
+      {
+        "family": "Aalbersberg",
+        "given": "IJsbrand Jan"
+      },
+      {
+        "family": "Appleton",
+        "given": "Gabrielle"
+      },
+      {
+        "family": "Axton",
+        "given": "Myles"
+      },
+      {
+        "family": "Baak",
+        "given": "Arie"
+      },
+      {
+        "family": "Blomberg",
+        "given": "Niklas"
+      },
+      {
+        "family": "Boiten",
+        "given": "Jan-Willem"
+      },
+      {
+        "family": "Silva Santos",
+        "given": "Luiz Bonino",
+        "non-dropping-particle": "da"
+      },
+      {
+        "family": "Bourne",
+        "given": "Philip E."
+      },
+      {
+        "family": "Bouwman",
+        "given": "Jildau"
+      },
+      {
+        "family": "Brookes",
+        "given": "Anthony J."
+      },
+      {
+        "family": "Clark",
+        "given": "Tim"
+      },
+      {
+        "family": "Crosas",
+        "given": "Mercè"
+      },
+      {
+        "family": "Dillo",
+        "given": "Ingrid"
+      },
+      {
+        "family": "Dumon",
+        "given": "Olivier"
+      },
+      {
+        "family": "Edmunds",
+        "given": "Scott"
+      },
+      {
+        "family": "Evelo",
+        "given": "Chris T."
+      },
+      {
+        "family": "Finkers",
+        "given": "Richard"
+      },
+      {
+        "family": "Gonzalez-Beltran",
+        "given": "Alejandra"
+      },
+      {
+        "family": "Gray",
+        "given": "Alasdair J. G."
+      },
+      {
+        "family": "Groth",
+        "given": "Paul"
+      },
+      {
+        "family": "Goble",
+        "given": "Carole"
+      },
+      {
+        "family": "Grethe",
+        "given": "Jeffrey S."
+      },
+      {
+        "family": "Heringa",
+        "given": "Jaap"
+      },
+      {
+        "family": "Hoen",
+        "given": "Peter A. C.",
+        "non-dropping-particle": "’t"
+      },
+      {
+        "family": "Hooft",
+        "given": "Rob"
+      },
+      {
+        "family": "Kuhn",
+        "given": "Tobias"
+      },
+      {
+        "family": "Kok",
+        "given": "Ruben"
+      },
+      {
+        "family": "Kok",
+        "given": "Joost"
+      },
+      {
+        "family": "Lusher",
+        "given": "Scott J."
+      },
+      {
+        "family": "Martone",
+        "given": "Maryann E."
+      },
+      {
+        "family": "Mons",
+        "given": "Albert"
+      },
+      {
+        "family": "Packer",
+        "given": "Abel L."
+      },
+      {
+        "family": "Persson",
+        "given": "Bengt"
+      },
+      {
+        "family": "Rocca-Serra",
+        "given": "Philippe"
+      },
+      {
+        "family": "Roos",
+        "given": "Marco"
+      },
+      {
+        "family": "Schaik",
+        "given": "Rene",
+        "non-dropping-particle": "van"
+      },
+      {
+        "family": "Sansone",
+        "given": "Susanna-Assunta"
+      },
+      {
+        "family": "Schultes",
+        "given": "Erik"
+      },
+      {
+        "family": "Sengstag",
+        "given": "Thierry"
+      },
+      {
+        "family": "Slater",
+        "given": "Ted"
+      },
+      {
+        "family": "Strawn",
+        "given": "George"
+      },
+      {
+        "family": "Swertz",
+        "given": "Morris A."
+      },
+      {
+        "family": "Thompson",
+        "given": "Mark"
+      },
+      {
+        "family": "Lei",
+        "given": "Johan",
+        "non-dropping-particle": "van der"
+      },
+      {
+        "family": "Mulligen",
+        "given": "Erik",
+        "non-dropping-particle": "van"
+      },
+      {
+        "family": "Velterop",
+        "given": "Jan"
+      },
+      {
+        "family": "Waagmeester",
+        "given": "Andra"
+      },
+      {
+        "family": "Wittenburg",
+        "given": "Peter"
+      },
+      {
+        "family": "Wolstencroft",
+        "given": "Katherine"
+      },
+      {
+        "family": "Zhao",
+        "given": "Jun"
+      },
+      {
+        "family": "Mons",
+        "given": "Barend"
+      }
+    ],
+    "citation-key": "wilkinsonFAIRGuidingPrinciples2016b",
+    "container-title": "Scientific Data",
+    "container-title-short": "Sci Data",
+    "DOI": "10.1038/sdata.2016.18",
+    "ISSN": "2052-4463",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          3,
+          15
+        ]
+      ]
+    },
+    "language": "en",
+    "license": "2016 The Author(s)",
+    "page": "160018",
+    "publisher": "Nature Publishing Group",
+    "source": "www.nature.com",
+    "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+    "type": "article-journal",
+    "URL": "https://www.nature.com/articles/sdata201618",
+    "volume": "3"
+  }
 ]
